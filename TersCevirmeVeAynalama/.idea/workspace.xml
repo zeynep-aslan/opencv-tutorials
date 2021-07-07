@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e0bb2d6-9bd0-43da-9618-8f6beb1b5d4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tersVeAynali.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1k3jsw29Qf58RzQpFo8tsQWXjnv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gun6/parlaklikOynama" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PCnet\Desktop\staj\gun5\TersCevirmeVeAynalama" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.tersVeAynali">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TersCevirmeVeAynalama" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\PCnet\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tersVeAynali" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TersCevirmeVeAynalama" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tersVeAynali.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.tersVeAynali" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tersVeAynali" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e0bb2d6-9bd0-43da-9618-8f6beb1b5d4f" name="Default Changelist" comment="" />
+      <created>1604936379172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604936379172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604936392646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604936392646" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605009611778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605009611778" />
+    <state width="745" height="60" key="GridCell.Tab.0.bottom" timestamp="1604944295760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="60" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604944295760" />
+    <state width="745" height="60" key="GridCell.Tab.0.center" timestamp="1604944295760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="60" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604944295760" />
+    <state width="745" height="60" key="GridCell.Tab.0.left" timestamp="1604944295760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="60" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604944295760" />
+    <state width="745" height="60" key="GridCell.Tab.0.right" timestamp="1604944295760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="60" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604944295760" />
+  </component>
+</project>
